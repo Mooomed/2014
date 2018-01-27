@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+ <published>2018-01-25T02:08:07+0100</published>
+ <file name="05bc883e-e866-5760-b854-75c7bbfea5df.gzip">
+  <version>1.0</version>
+  <language>en</language>
+  <url priority="1">https://theia-landsat.cnes.fr/resto/collections/Landsat/05bc883e-e866-5760-b854-75c7bbfea5df/download?_tk=c9165d8f83f6f8ab429b94eff38c2173b7c08a65</url>
+ </file>
+</metalink>
